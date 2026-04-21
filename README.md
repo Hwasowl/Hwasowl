@@ -1,30 +1,29 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Hwasowl's%20GitHub&fontSize=42" />
 
 
-**안녕하세요, 4년차 백엔드 개발자 박정수입니다.**
+**ERP와 결제 시스템을 다뤄온 4년차 백엔드 개발자 박정수입니다.**
 
-
-**Stacks**
+**Main Stacks**
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-232F3E?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 
 
 **Work Experience**
 - **씨앤에프시스템 (2025.12 ~ 재직)**
-    - 공공기관 ERP 재무회계/예산 모듈 개발
+    - 공공기관 ERP 재무회계/예산 모듈
     - Spring 백엔드 엔지니어
 
 - **디어코퍼레이션 (2020.09 ~ 2024.01)**
-    - 공유 전동 킥보드 서비스 개발 (PG결제, 회원관리, CS시스템)
+    - 공유 전동 킥보드 서비스 (PG 결제, 회원 관리, CS 시스템)
     - Spring Boot, Node.js 백엔드 엔지니어
 
 **Education**
