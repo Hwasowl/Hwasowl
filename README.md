@@ -21,5 +21,4 @@ https://github.com/rullerzhou-afk/clawd-on-desk/pull/268: fix: replace wmic with
 - **Deer Corporation (2020.09 ~ 2024.01)** / B2C Backend Engineer (PG Payments, Membership)
 
 **Education**
-- **The Catholic University of Korea** / IT Finance (2025.03 ~ 2027.02)
-- **Dongyang Mirae University** / Computer Science (2022.03 ~ 2024.02)
+- **The Catholic University of Korea** / IT Finance (2027.02)
