@@ -13,7 +13,7 @@
 
 **Career**
 
-- **C&F System (2025.12 ~ )** / ERP Backend Engineer (Financial)
+- **C&F System (2025.12 ~ Present)** / ERP Backend Engineer (Financial)
 - **Deer Corporation (2020.09 ~ 2024.01)** / B2C Backend Engineer (PG Payments, Membership)
 
 **Open-source**
@@ -22,5 +22,5 @@
 
 **Credentials**
 
-- **The Catholic University of Korea** / IT Finance (2027.02)
+- **The Catholic University of Korea** / IT Finance (~2027.02)
 - Engineer Information Processing (2025.12)
