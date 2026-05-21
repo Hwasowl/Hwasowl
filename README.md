@@ -13,8 +13,8 @@
 
 **Career**
 
-- **C&F System (2025.12 ~ Present)** / ERP Backend Engineer (Financial)
-- **Deer Corporation (2020.09 ~ 2024.01)** / B2C Backend Engineer (PG Payments, Membership)
+- **C&F System (2025.12 ~ Present)** / Backend Engineer (ERP - Financial)
+- **Deer Corporation (2020.09 ~ 2024.01)** / Backend Engineer (PG Payments, Membership)
 
 **Open-source**
 
