@@ -19,7 +19,6 @@
 
 - https://github.com/rullerzhou-afk/clawd-on-desk/pull/268
 
-**Credentials**
+**Education**
 
 - **The Catholic University of Korea** / IT Finance (~2027.02)
-- Engineer Information Processing (2025.12)
