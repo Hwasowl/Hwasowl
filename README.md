@@ -16,8 +16,8 @@
 - **Deer Corporation (2020.09 ~ 2024.01)** / Backend Engineer (PG, Membership)
 
 **Open-source**
-
-- https://github.com/rullerzhou-afk/clawd-on-desk/pull/268
+- [clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk)
+  - Replace legacy wmic commands with PowerShell Get-CimInstance (https://github.com/rullerzhou-afk/clawd-on-desk/pull/268)
 
 **Education**
 
