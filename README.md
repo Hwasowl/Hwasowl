@@ -12,8 +12,8 @@
 
 **Career**
 
-- **[C&F System](https://www.cnfsystem.co.kr/new/) (2025.12 ~ Present)** / Backend Engineer (ERP - Financial)
-- **[Deer Corporation](https://www.nextunicorn.kr/company/c64514a3cd93e4d7) (2020.09 ~ 2024.01)** / Backend Engineer (PG, Membership)
+- **C&F System       (2025.12 ~ Present)** / Backend Engineer (ERP - Financial)
+- **Deer Corporation (2020.09 ~ 2024.01)** / Backend Engineer (PG, Membership)
 
 **Open-source**
 - [clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk)
