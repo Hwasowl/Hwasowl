@@ -18,7 +18,3 @@
 **Open-source**
 - [clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk)
   - Replace legacy wmic commands with PowerShell Get-CimInstance (https://github.com/rullerzhou-afk/clawd-on-desk/pull/268)
-
-**Education**
-
-- **The Catholic University of Korea** / IT Finance (~2027.02)
