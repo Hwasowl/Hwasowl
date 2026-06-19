@@ -16,4 +16,4 @@
 - **Deer Corporation (2020.09 ~ 2024.01)** / Backend Engineer (PG, Membership)
 
 **Open-source**
-- [#268](https://github.com/rullerzhou-afk/clawd-on-desk/pull/268) <img src="https://img.shields.io/github/stars/rullerzhou-afk/clawd-on-desk?logo=github&color=dfb317" alt="GitHub stars">
+- [clawd-on-desk #268](https://github.com/rullerzhou-afk/clawd-on-desk/pull/268) <img src="https://img.shields.io/github/stars/rullerzhou-afk/clawd-on-desk?logo=github&color=dfb317">
