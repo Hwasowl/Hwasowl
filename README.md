@@ -13,7 +13,7 @@
 **Career**
 
 - **C&F System       (2025.12 ~ Present)** / Backend Engineer (ERP)
-- **Deer Corporation (2020.09 ~ 2024.01)** / Backend Engineer (Micro-mobility)
+- **Deer Corporation (2020.09 ~ 2024.01)** / Backend Engineer (Mobility)
 
 **Open-source**
 
