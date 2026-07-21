@@ -20,6 +20,6 @@
 
 **Open-source Contributions**
 
-- **clawd-on-desk** <img src="https://img.shields.io/github/stars/rullerzhou-afk/clawd-on-desk?style=flat&logo=github&color=dfb317" href="https://github.com/rullerzhou-afk/clawd-on-desk" alt="GitHub stars" align="center">  / [fix: replace wmic with PowerShell Get-CimInstance](https://github.com/rullerzhou-afk/clawd-on-desk/pull/268)
+- <img src="https://img.shields.io/github/stars/rullerzhou-afk/clawd-on-desk?style=flat&logo=github&color=dfb317" href="https://github.com/rullerzhou-afk/clawd-on-desk" alt="GitHub stars" align="center"> **clawd-on-desk**  / [fix: replace wmic with PowerShell Get-CimInstance](https://github.com/rullerzhou-afk/clawd-on-desk/pull/268)
 
 
