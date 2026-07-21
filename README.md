@@ -10,12 +10,16 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
+**About**
+- Backend engineer with 4+ years of experience, interested in building and maintaining large-scale systems.
+
 **Career**
-- **[S-Tec System](https://www.s-tec.co.kr/intro/intro_01.php)       (2026.08 ~ Present)** / Backend Engineer (ERP)
-- **C&F System        (2025.12 ~ 2026.07)** / Backend Engineer (ERP)
-- **Deer Corporation (2020.09 ~ 2024.01)** / Backend Engineer (Mobility)
+- **[S-Tec System](https://www.s-tec.co.kr/intro/intro_01.php) (2026.08 ~ Present)** / Backend Engineer (ERP - HR/HRM)
+- **C&F System        (2025.12 ~ 2026.07)** / Backend Engineer (ERP - FI/FM)
+- **Deer Corporation (2020.09 ~ 2024.01)** / Backend Engineer (Micromobility - PG, Geo, Admin)
 
-**Open-source**
+**Open-source Contributions**
 
-- clawd-on-desk (https://github.com/rullerzhou-afk/clawd-on-desk/pull/268)
+- **clawd-on-desk** <img src="https://img.shields.io/github/stars/rullerzhou-afk/clawd-on-desk?style=flat&logo=github&color=dfb317" href="https://github.com/rullerzhou-afk/clawd-on-desk" alt="GitHub stars" align="center">  / [fix: replace wmic with PowerShell Get-CimInstance](https://github.com/rullerzhou-afk/clawd-on-desk/pull/268)
+
 
