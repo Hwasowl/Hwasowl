@@ -11,7 +11,7 @@
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 **Career**
-- **[S-Tec System](https://www.s-tec.co.kr/intro/intro_01.php) (2026.08 ~ Present)** / Backend Engineer (ERP - HR/HRM)
+- **[S-Tec System](https://www.s-tec.co.kr/intro/intro_01.php) (2026.08 ~ Present)** / Backend Engineer (ERP - HR)
 - **C&F System        (2025.12 ~ 2026.07)** / Backend Engineer (ERP - FI/FM)
 - **Deer Corporation (2020.09 ~ 2024.01)** / Backend Engineer (Micromobility - PG, Geo, Admin)
 
