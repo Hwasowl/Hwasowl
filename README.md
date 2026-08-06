@@ -38,7 +38,7 @@ gantt
     section Career
     Deer Corporation  :done,   2020-09, 2024-01
     C&F                          :done,   2025-12, 2026-07
-    S-Tec System · ERP HR             :active, 2026-08, 2028-08
+    S-Tec System             :active, 2026-08, 2028-08
     section Education
     Dongyang Mirae Univ. :done,   2022-03, 2024-02
     Transfer Prep · Dev Study                   :done,   2024-02, 2025-02
