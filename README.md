@@ -36,8 +36,8 @@ gantt
     axisFormat %Y
     tickInterval 1year
     section Career
-    Deer Corporation · Micromobility  :done,   2020-09, 2024-01
-    C&F · FI                          :done,   2025-12, 2026-07
+    Deer Corporation  :done,   2020-09, 2024-01
+    C&F                          :done,   2025-12, 2026-07
     S-Tec System · ERP HR             :active, 2026-08, 2028-08
     section Education
     Dongyang Mirae Univ. :done,   2022-03, 2024-02
