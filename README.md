@@ -40,9 +40,9 @@ gantt
     C&F · FI                          :done,   2025-12, 2026-07
     S-Tec System · ERP HR             :active, 2026-08, 2028-08
     section Education
-    Dongyang Mirae Univ. · Computer Engineering :done,   2022-03, 2024-02
+    Dongyang Mirae Univ. :done,   2022-03, 2024-02
     Transfer Prep · Dev Study                   :done,   2024-02, 2025-02
-    The Catholic Univ. of Korea · IT Finance    :active, 2025-03, 2027-02
+    The Catholic Univ. of Korea    :active, 2025-03, 2027-02
 ```
 
 **Career Details**
