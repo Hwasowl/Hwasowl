@@ -47,7 +47,7 @@ gantt
 **Career Details**
 
 - **[S-Tec System](https://www.s-tec.co.kr/intro/intro_01.php) (2026.08 ~ Present)** / Backend Engineer (ERP - HR)
-- **Deer Corporation (2020.09 ~ 2024.01)** / Backend Engineer (Micromobility - PG, Geo)
+- **[Deer Corporation](https://www.incruit.com/company/1684643644) (2020.09 ~ 2024.01)** / Backend Engineer (Micromobility)
 
 **Open-source**
 
