@@ -27,8 +27,8 @@ gantt
     Deer Corporation  :done,   2020-09, 2024-01
     S-Tec System             :active, 2026-08, 2028-08
     section Education
-    Etc Univ. :done,   2022-03, 2024-02
-    Transfer Prep · Dev Study                   :done,   2024-02, 2025-02
+    Work-Learning Dual System :done,   2022-03, 2024-02
+    Transfer Exam Prep                   :done,   2024-02, 2025-02
     The Catholic Univ. of Korea    :active, 2025-03, 2027-02
 ```
 
@@ -39,4 +39,4 @@ gantt
 
 **Open-source**
 
-- **clawd-on-desk** / <a href="https://github.com/rullerzhou-afk/clawd-on-desk"><img src="https://img.shields.io/github/stars/rullerzhou-afk/clawd-on-desk?style=flat&logo=github&color=dfb317" alt="GitHub stars" align="center"></a> [fix: replace wmic with PowerShell Get-CimInstance](https://github.com/rullerzhou-afk/clawd-on-desk/pull/268)
+- **clawd-on-desk** / [fix: replace wmic with PowerShell Get-CimInstance](https://github.com/rullerzhou-afk/clawd-on-desk/pull/268)
