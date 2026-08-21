@@ -27,7 +27,7 @@ gantt
     Deer Corporation  :done,   2020-09, 2024-01
     S-Tec System             :active, 2026-08, 2028-08
     section Education
-    Dongyang Mirae Univ. :done,   2022-03, 2024-02
+    Etc Univ. :done,   2022-03, 2024-02
     Transfer Prep · Dev Study                   :done,   2024-02, 2025-02
     The Catholic Univ. of Korea    :active, 2025-03, 2027-02
 ```
