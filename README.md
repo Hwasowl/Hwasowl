@@ -27,13 +27,12 @@ gantt
     Deer Corporation  :done,   2020-09, 2024-01
     S-Tec System             :active, 2026-08, 2028-08
     section Education
-    Work-Learning Dual System :done,   2022-03, 2024-02
+    Junior College :done,   2022-03, 2024-02
     Transfer Exam Prep                   :done,   2024-02, 2025-02
-    The Catholic Univ. of Korea    :active, 2025-03, 2027-02
+    University    :active, 2025-03, 2027-02
 ```
 
 **Career**
-
 - **[S-Tec System](https://www.s-tec.co.kr/intro/intro_01.php) (2026.08 ~ Present)** / Backend Engineer (ERP - HR)
 - **[Deer Corporation](https://www.incruit.com/company/1684643644) (2020.09 ~ 2024.01)** / Backend Engineer (Micromobility)
 
@@ -41,5 +40,11 @@ gantt
 
 **Open-source**
 
-[clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk) (A pixel desktop pet that watches AI coding agents)
+**clawd-on-desk** (A pixel desktop pet that watches AI coding agents)
 - [fix: replace wmic with PowerShell Get-CimInstance](https://github.com/rullerzhou-afk/clawd-on-desk/pull/268)
+
+---
+
+**Education**
+- **Loop:pak Backend vol.4** (2026.05 ~ 2026.07) / Backend Engineering Bootcamp
+- **Catholic Unviersity of Korea** (2025.03 ~ 2027.02) / Finance & IT
