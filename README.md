@@ -40,4 +40,4 @@ gantt
 **Open-source**
 
 [clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk) (A pixel desktop pet that watches AI coding agents)
-- https://github.com/rullerzhou-afk/clawd-on-desk/pull/268
+- [fix: replace wmic with PowerShell Get-CimInstance](https://github.com/rullerzhou-afk/clawd-on-desk/pull/268)
