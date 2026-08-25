@@ -39,4 +39,4 @@ gantt
 
 **Open-source**
 
-- **clawd-on-desk** / [fix: replace wmic with PowerShell Get-CimInstance](https://github.com/rullerzhou-afk/clawd-on-desk/pull/268)
+- https://github.com/rullerzhou-afk/clawd-on-desk/pull/268
