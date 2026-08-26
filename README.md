@@ -47,4 +47,4 @@ gantt
 
 **Education**
 - **Loop:pak Backend vol.4** (2026.05 ~ 2026.07) / Backend Engineering Bootcamp
-- **Catholic Unviersity of Korea** (2025.03 ~ 2027.02) / Finance & IT
+- **Catholic Unviersity of Korea** (2025.03 ~ 2027.02) *Transfer / Finance & IT
