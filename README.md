@@ -29,7 +29,7 @@ gantt
     section Education
     Junior College :done,   2022-03, 2024-02
     Transfer Exam Prep                   :done,   2024-02, 2025-02
-    University    :active, 2025-03, 2027-02
+    University & Bootcamp    :active, 2025-03, 2027-02
 ```
 
 **Career**
