@@ -34,7 +34,7 @@ gantt
 
 **Career**
 - **[S-Tec System](https://www.s-tec.co.kr/intro/intro_01.php) (2026.08 ~ Present)** / Backend Engineer (ERP)
-- **Deer Corporation (2020.09 ~ 2024.01)** / Backend Engineer (Mobility)
+- **[Deer Corporation](https://www.linkedin.com/company/deercorp/?originalSubdomain=kr) (2020.09 ~ 2024.01)** / Backend Engineer (Mobility)
 
 ---
 
@@ -46,5 +46,5 @@ gantt
 ---
 
 **Education**
-- **Loop:pak Backend vol.4** (2026.05 ~ 2026.07) / Backend Engineering Bootcamp
+- **[Loop:pak Backend vol.4](https://www.loopers.im/)** (2026.05 ~ 2026.07) / Backend Engineering Bootcamp
 - **Catholic Unviersity of Korea** (2025.03 ~ 2027.02) *Transfer / Finance & IT
