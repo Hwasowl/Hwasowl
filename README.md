@@ -4,7 +4,7 @@
 
 ---
 
-[**Open-source**]
+[**Open-Source**]
 
 **clawd-on-desk** (A pixel desktop pet that watches AI coding agents)
 - [fix: replace wmic with PowerShell Get-CimInstance](https://github.com/rullerzhou-afk/clawd-on-desk/pull/268)
